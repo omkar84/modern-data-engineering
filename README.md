@@ -1,60 +1,117 @@
 # Enterprise Data Engineering Handbook
 
-Welcome!
-
-This repository documents my learning journey and practical implementations in modern Data Engineering and Cloud Architecture.
-
-The goal is to build a production-focused knowledge base covering cloud-native data platforms, data engineering best practices, healthcare analytics, and AI-enabled data solutions.
+> A practical knowledge base documenting my journey in **Data Engineering**, **Cloud Architecture**, **Databricks**, **AWS**, **Snowflake**, **Healthcare Analytics**, and **AI-enabled Data Platforms**.
 
 ---
 
-# Topics
+## 👋 About
+
+Welcome!
+
+This repository is my personal knowledge base where I document concepts, architecture patterns, best practices, code examples, and end-to-end projects related to modern Data Engineering.
+
+The objective is to continuously learn, build, and share practical implementations that reflect real-world enterprise data platforms.
+
+---
+
+# 📚 Learning Roadmap
+
+## Foundations
 
 - SQL
 - Python
-- PySpark
+- Linux & Shell Scripting
+- Git & GitHub
+- Data Modeling
+
+---
+
+## Data Engineering
+
+- ETL / ELT
 - Apache Spark
+- PySpark
+- Delta Lake
+- Data Quality
+- Data Observability
+- Metadata Management
+
+---
+
+## Cloud Platforms
+
+- AWS
+- Azure
 - Databricks
 - Snowflake
-- AWS Data Engineering
-- Azure Data Engineering
-- Airflow
-- dbt
-- Kafka
-- Data Modeling
-- Healthcare Data Engineering
-- Cloud Migration
+
+---
+
+## Modern Architecture
+
 - Lakehouse Architecture
+- Medallion Architecture
+- Data Mesh
+- Data Fabric
+- Cloud Migration
+- Data Warehouse Modernization
+
+---
+
+## AI for Data Engineering
+
+- Prompt Engineering
+- AI-assisted SQL
+- AI-assisted PySpark
+- GenAI for Data Engineering
+- Databricks Genie
+- AI-ready Data Platforms
+
+---
+
+## Healthcare Analytics
+
+- Claims Processing
+- EDI Transactions
+- Member
+- Provider
+- Clinical
+- Population Health
+- Risk Adjustment
+- Healthcare Data Warehouse
+
+---
+
+# 🚀 Projects
+
+Projects will be added as they are completed.
+
+- Healthcare Claims Lakehouse
+- AWS Data Engineering Pipeline
+- Databricks Medallion Architecture
+- Healthcare Data Warehouse Modernization
 - AI for Data Engineers
-- Data Observability
-- Data Governance
-- End-to-End Projects
-- Interview Preparation
 
 ---
 
-# Repository Structure
+# 📖 References
 
-```
-01-Data-Engineering-Fundamentals
-02-SQL
-03-Python
-04-PySpark
-05-Apache-Spark
-06-Databricks
-07-Snowflake
-08-AWS
-09-Azure
-10-Airflow
-11-dbt
-12-Kafka
-13-Healthcare
-14-Architecture
-15-AI-for-Data-Engineering
-16-Projects
-17-Interview-Questions
-```
+Useful resources that inspire this repository:
+
+- Data Engineering Handbook
+- Databricks Documentation
+- Snowflake Documentation
+- Apache Spark Documentation
+- AWS Documentation
 
 ---
 
-More content will be added as I continue learning and building real-world projects.
+# 🎯 Goal
+
+Build a production-ready portfolio covering:
+
+- End-to-End Data Engineering Projects
+- Cloud Data Platforms
+- Enterprise Architecture
+- Healthcare Analytics
+- AI-enabled Data Engineering
