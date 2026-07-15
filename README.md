@@ -115,3 +115,30 @@ Build a production-ready portfolio covering:
 - Enterprise Architecture
 - Healthcare Analytics
 - AI-enabled Data Engineering
+
+
+# Repository Goals
+
+This repository is intended to:
+
+- Learn modern Data Engineering
+- Build production-ready projects
+- Document cloud architectures
+- Share interview preparation
+- Demonstrate enterprise data engineering best practices
+- Build an AI-ready knowledge base
+
+
+
+# References
+
+The concepts documented in this repository are inspired by publicly available technical resources, official documentation, books, blogs, conference talks, and practical implementation experience.
+
+Key references include:
+
+- Data Engineering Handbook
+- Databricks Documentation
+- Apache Spark Documentation
+- Snowflake Documentation
+- AWS Documentation
+- Microsoft Learn
