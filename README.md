@@ -1,2 +1,2 @@
 # modern-data-engineering
-Modern Data Engineering | Cloud | Databricks | Snowflake 
+My personal knowledge base for Data Engineering, Cloud Architecture, Databricks, AWS, Snowflake, AI, and Healthcare Analytics.
